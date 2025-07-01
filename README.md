@@ -22,3 +22,8 @@ An additional filter is applied to exclude sentences that exceed a maximum lengt
 This summarizer is ideal for a variety of applications, including creating abstracts for research papers, generating short summaries of news articles, condensing blog posts, or building more complex NLP tools that require text summarization as a component. It demonstrates fundamental NLP techniques such as tokenization, stopword removal, word frequency analysis, and sentence scoring, serving as an excellent educational resource for those interested in learning how summarization algorithms work under the hood. The script is lightweight and easy to integrate into larger Python projects or to use as a standalone command-line tool. It requires only Python and the NLTK library, with initial downloads for the necessary tokenizer and stopword resources.
 
 Overall, this repository offers a practical, easy-to-understand, and customizable solution for anyone looking to implement text summarization without relying on complex or transformer-based models. Whether you are a student, researcher, developer, or professional dealing with large volumes of text, this tool can help you distill information quickly and effectively. By using classic NLP methods, it avoids the computational overhead of deep learning models, making it accessible even on systems with limited resources. With clear code structure and detailed documentation, this repository provides a strong foundation for exploring more advanced summarization techniques or incorporating additional features such as keyword extraction, topic modeling, or integration with web applications.
+
+
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/0651b57f-6d9a-4152-82cc-8de421accc0c)
